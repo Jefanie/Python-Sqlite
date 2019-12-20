@@ -1,4 +1,4 @@
-# SQL using Python
+# Python Sqlite
 
 SQL-using-Python-1 is written using a preexisting database named "world_updated.db"
 
