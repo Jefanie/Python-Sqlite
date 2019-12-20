@@ -1,5 +1,5 @@
 # sqlite3
-sqlite3 using Python
+Python using sqlite3
 
 SQL-using-Python-1 is a written using a preexisting database called "world_updated.db"
 
